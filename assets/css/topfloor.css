@@ -2661,6 +2661,7 @@ html.lenis {
 
 .main-slider__title {
   position: relative;
+  font-family: Quicksand;
   font-size: 75px;
   color: var(--topfloor-white);
   font-weight: 700;
