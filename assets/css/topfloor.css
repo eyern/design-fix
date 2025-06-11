@@ -401,7 +401,7 @@ html.lenis {
   top: 0;
   width: 100%;
   z-index: 9999999;
-  background: var(--topfloor-base);
+  background: #000;
 }
 
 .handle-preloader .animation-preloader {
