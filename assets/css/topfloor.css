@@ -969,7 +969,7 @@ html.lenis {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--topfloor-base);
+  background-color: black;
   padding: 48px 75px;
   clip-path: polygon(0 0, 100% 0%, 77% 100%, 0% 100%);
 }
